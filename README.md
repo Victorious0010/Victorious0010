@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋🏽 Hey, I’m Victor (a.k.a victorious0010)
 
-<!--
-**Victorious0010/Victorious0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend Developer | UI/UX Enthusiast | Learning in Public 🚀
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- HTML5, CSS3, and JavaScript
+- Responsive design and layouts
+- UI/UX design with Figma
+- Git and GitHub for version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools I’m using:
+- VS Code
+- Figma
+- GitHub
+- Notion (for planning)
+- Chrome DevTools
+
+📌 What I’m Working On:
+- Personal Portfolio Website (HTML/CSS)
+- UI/UX redesign of popular Nigerian apps eg piggyvest, WhatsApp 
+- Building 5 projects to strengthen my skills
+
+📫 How to reach me:
+- LinkedIn: [Coming Soon]
+- Email: obinkavictor2006@gmail.com
+
+⚡ Fun Fact: I love clean code, street-inspired design, and I’m always organizing my life like I’m writing HTML 😅
